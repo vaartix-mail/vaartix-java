@@ -100,7 +100,9 @@
             <configuration>
               <publishingServerId>central</publishingServerId>
               <autoPublish>true</autoPublish>
-              <waitUntil>published</waitUntil>
+              <!-- Stop waiting once Central has validated the upload: publishing to the public repository
+                 can take longer than the plugin will poll, and it happens automatically. -->
+              <waitUntil>validated</waitUntil>
             </configuration>
           </plugin>
         </plugins>
