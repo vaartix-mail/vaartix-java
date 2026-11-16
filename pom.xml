@@ -10,7 +10,7 @@
   <description>The official Java client for Vaartix, the transactional email API built in India.</description>
   <url>https://github.com/vaartix-mail/vaartix-java</url>
   <licenses><license><name>MIT</name><url>https://opensource.org/licenses/MIT</url></license></licenses>
-  <developers><developer><name>Vaartix</name><email>support@vaartix.com</email><organization>NAP Designs</organization><organizationUrl>https://vaartix.com</organizationUrl></developer></developers>
+  <developers><developer><name>Vaartix</name><email>support@vaartix.com</email><organization>SNAP Technologies</organization><organizationUrl>https://vaartix.com</organizationUrl></developer></developers>
   <scm>
     <connection>scm:git:https://github.com/vaartix-mail/vaartix-java.git</connection>
     <developerConnection>scm:git:https://github.com/vaartix-mail/vaartix-java.git</developerConnection>
